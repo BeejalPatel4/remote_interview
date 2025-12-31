@@ -1,9 +1,10 @@
 
-# Remote Job interview platform
+# Remote Job interview platform  
+
 
 building a full-stack video calling interview platform using the MERN stack . the initial setup of Node.js and Express, the implementation of MongoDB schemas, and the integration of Clerk for user authentication. demonstrates how to facilitate background tasks and data synchronisation between services using Inngest and Stream.On the front end, the project utilizes React, Tailwind CSS, and TanStack Query to manage state and create an interactive user interface. Key features include a real-time code editor powered by the Piston API for code execution and the deployment of the integrated application to a single URL.
 
-
+DEMO :https://remote-job-interview-video-l6um-git-main-patel-bijals-projects.vercel.app/
 ## Features
 
 1.🎥 Interview & Video Enhancements
